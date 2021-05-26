@@ -2,10 +2,10 @@
 
 ## File Descriptions
 - <b>Jupyter Notebook</b> 
-StackOverFlow-Survey-Analysis.ipynb -> Contains the code for Exploratory Data Analysis
+1. StackOverFlow-Survey-Analysis.ipynb -> Contains the code for Exploratory Data Analysis
 - <b>Dataset</b> 
-developer_survey_2020/survey_results_public.csv -> Contains the responses given against the survey questions, compiled under respective fields
-developer_survey_2020/survey_results_schema.csv -> Defines the schema of the `survey_results_public` file and what each field denotes
+1. developer_survey_2020/survey_results_public.csv -> Contains the responses given against the survey questions, compiled under respective fields
+2. developer_survey_2020/survey_results_schema.csv -> Defines the schema of the `survey_results_public` file and what each field denotes
 
 ## Motivation
 
