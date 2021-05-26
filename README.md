@@ -1,8 +1,11 @@
 # StackOverflow Developer Survey Analysis 2020
 
-## Contents
-<b>Jupyter Notebook</b> - StackOverFlow-Survey-Analysis.ipynb
-<b>Dataset</b> - developer_survey_2020/
+## File Descriptions
+- <b>Jupyter Notebook</b> 
+StackOverFlow-Survey-Analysis.ipynb -> Contains the code for Exploratory Data Analysis
+- <b>Dataset</b> 
+developer_survey_2020/survey_results_public.csv -> Contains the responses given against the survey questions, compiled under respective fields
+developer_survey_2020/survey_results_schema.csv -> Defines the schema of the `survey_results_public` file and what each field denotes
 
 ## Motivation
 
@@ -33,3 +36,7 @@ A concise writeup of the evaluation and analysis can be found here https://abhi-
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Acknowledgement
+StackOverflow Survey Data 2020 [https://insights.stackoverflow.com/survey]
+Seaborn Violin Plot [https://medium.com/analytics-vidhya/violin-plot-in-a-nutshell-ecd5ed0abcff]
