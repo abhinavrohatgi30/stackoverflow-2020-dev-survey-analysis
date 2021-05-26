@@ -9,4 +9,4 @@ I'll be answering the following questions as part of this survey analysis:
 4. How many hours do developers work across countries?
 5. What factors cause the developers to look for new jobs in a Developed (United States) vs Developing (India) country?
 
-A consice writeup of the analysis can be found here https://abhi-rohatgi.medium.com/stackoverflow-developers-of-2020-have-their-say-191c60de42f8
+A concise writeup of the analysis can be found here https://abhi-rohatgi.medium.com/stackoverflow-developers-of-2020-have-their-say-191c60de42f8
