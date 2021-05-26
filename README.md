@@ -1,8 +1,8 @@
 # StackOverflow Developer Survey Analysis 2020
 
 ## Contents
-<b>Jupyter Notebook</b> - 
-<b>Dataset</b> - 
+<b>Jupyter Notebook</b> - StackOverFlow-Survey-Analysis.ipynb
+<b>Dataset</b> - developer_survey_2020/
 
 ## Motivation
 
